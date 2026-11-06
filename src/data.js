@@ -22,7 +22,7 @@ export const saveTheDate = {
   label: 'Mehndi',
   dateText: 'December 4, 2026',
   day: 'Friday',
-  time: '7:00 PM',
+  time: '6:00 PM',
   // ISO date used for the countdown
   iso: '2026-12-04T19:00:00',
   durationHours: 4,
